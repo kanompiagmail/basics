@@ -4,3 +4,4 @@
 const widget = () => {
     alert('index.js');
 }
+// just forged
